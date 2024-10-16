@@ -1,5 +1,4 @@
 ### Airbnb Listings EDA Project: New York 2024  
-This README outlines the project objectives, tools used, workflow, and the insights drawn from analyzing **New York Airbnb listings** data.
 
 ---
 
@@ -138,5 +137,3 @@ For any queries, feel free to reach out at:
 - **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/your-profile)  
 
 ---
-
-This README provides a comprehensive guide for your **Airbnb Listings EDA project**. Let me know if you'd like to adjust or add anything!
