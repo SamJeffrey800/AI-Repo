@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 %matplotlib inline
 data = pd.read_csv('datasets.csv', encoding_errors='ignore')
-data.tail(1000)
+
 data.tail(2)
 data.shape
 data.info()
