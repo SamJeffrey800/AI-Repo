@@ -76,3 +76,9 @@ df.dtypes
 sns.pairplot(data=df, vars=['price','minimum_nights','number_of_reviews','availability_365'], hue='room_type')
 
 sns.scatterplot()
+
+plt.figure(figsize=(10,7))
+sns.scatterplot(data=df, x='longitude', y='latitude', hue='room_type')
+plt.title("Geographical Distribution of AirBnb Listing")
+plt.show()
+
