@@ -17,7 +17,7 @@ data[data.duplicated()]
 data.drop_duplicates(inplace=True)
 data.duplicated().sum()
 data[data.duplicated()]
-
+data.dtypes
 data.dtypes
 data['id']= data['id'].astype(object)
 
